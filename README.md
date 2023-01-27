@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Descrição
 
-Agregador de links contando com diversos links para diversas redes sociais e personalizáveis!
+Agregador de links contando com diversos links para diversas redes sociais e personalizáveis! <br>
 P.S.: Esse projeto foi baseado em um desafio do programa *Discover* da @rocketseat.
 
 <br>
